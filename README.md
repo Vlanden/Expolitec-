@@ -1,2 +1,2 @@
-# MiPoliComunica
-Hacer una app estilo facebook
+# JuegoSinNombre
+Juego pendejo para expolitec
