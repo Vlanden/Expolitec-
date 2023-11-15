@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 78f1bf1c421747545b7b0677d84669d4, type: 3}
+  m_Name: Diablo
+  m_EditorClassIdentifier: 
+  critName: El Diablo
+  face: {fileID: 21300000, guid: 51c9fc8f368f0f6419dc8036a2a7af67, type: 3}
+  maxHp: 100
+  hp: 100
+  attack: 50
+  defense: 50
+  sp: 100
+  learnableSkills:
+  - skillBase: {fileID: 11400000, guid: ce6407acc4fb573488113f980b781579, type: 2}
+    level: 1
